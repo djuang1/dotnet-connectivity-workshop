@@ -6,6 +6,9 @@ The .NET Connectivity Technical Workshop is a self-paced online workshop designe
 
 Lab solutions for the MuleSoft / .NET Connectivity Technical Workshop Labs are contained in this GitHub. Training videos are hosted on YouTube covering each lab.
 
+##Site
+https://sites.google.com/a/mulesoft.com/dotnet-workshop/home
+
 ##Duration
 Self-Paced
 

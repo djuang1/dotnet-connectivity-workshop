@@ -1,0 +1,58 @@
+<metadata__catalog__entry>
+  <version>5.2.0.0</version>
+  <types class="tree-map">
+    <entry>
+      <org.mule.common.metadata.DefaultMetaDataKey>
+        <id>MuleSoftLabComponent.Account, MuleSoftLabComponent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</id>
+        <displayName>Account</displayName>
+        <category>DotNetMetadataCategory</category>
+        <metaDataKeyPropertiesManager>
+          <properties>
+            <org.mule.common.metadata.key.property.dsql.DsqlFromMetaDataKeyProperty/>
+          </properties>
+        </metaDataKeyPropertiesManager>
+      </org.mule.common.metadata.DefaultMetaDataKey>
+      <null/>
+    </entry>
+    <entry>
+      <org.mule.common.metadata.DefaultMetaDataKey>
+        <id>MuleSoftLabComponent.Lab, MuleSoftLabComponent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null||MuleSoftLabComponent.Lab, MuleSoftLabComponent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null | HandleMuleMessage(MuleSoftLabComponent.Account account, System.Int32 myVar, System.Int32 id) -&gt; System.Object</id>
+        <displayName>Lab||object HandleMuleMessage(Account account, int myVar, int id)</displayName>
+        <category>DotNetMetadataCategory</category>
+        <metaDataKeyPropertiesManager>
+          <properties>
+            <org.mule.common.metadata.key.property.dsql.DsqlFromMetaDataKeyProperty/>
+          </properties>
+        </metaDataKeyPropertiesManager>
+      </org.mule.common.metadata.DefaultMetaDataKey>
+      <null/>
+    </entry>
+    <entry>
+      <org.mule.common.metadata.DefaultMetaDataKey>
+        <id>MuleSoftLabComponent.Lab, MuleSoftLabComponent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null||MuleSoftLabComponent.Lab, MuleSoftLabComponent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null | HandleXML(System.Xml.XmlDocument xml) -&gt; System.Object</id>
+        <displayName>Lab||object HandleXML(XmlDocument xml)</displayName>
+        <category>DotNetMetadataCategory</category>
+        <metaDataKeyPropertiesManager>
+          <properties>
+            <org.mule.common.metadata.key.property.dsql.DsqlFromMetaDataKeyProperty reference="../../../../../entry[2]/org.mule.common.metadata.DefaultMetaDataKey/metaDataKeyPropertiesManager/properties/org.mule.common.metadata.key.property.dsql.DsqlFromMetaDataKeyProperty"/>
+          </properties>
+        </metaDataKeyPropertiesManager>
+      </org.mule.common.metadata.DefaultMetaDataKey>
+      <null/>
+    </entry>
+    <entry>
+      <org.mule.common.metadata.DefaultMetaDataKey>
+        <id>MuleSoftLabComponent.Lab, MuleSoftLabComponent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null||MuleSoftLabComponent.Lab, MuleSoftLabComponent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null | SetPayload() -&gt; Org.Mule.Api.MuleMessage</id>
+        <displayName>Lab||MuleMessage SetPayload()</displayName>
+        <category>DotNetMetadataCategory</category>
+        <metaDataKeyPropertiesManager>
+          <properties>
+            <org.mule.common.metadata.key.property.dsql.DsqlFromMetaDataKeyProperty reference="../../../../../entry[2]/org.mule.common.metadata.DefaultMetaDataKey/metaDataKeyPropertiesManager/properties/org.mule.common.metadata.key.property.dsql.DsqlFromMetaDataKeyProperty"/>
+          </properties>
+        </metaDataKeyPropertiesManager>
+      </org.mule.common.metadata.DefaultMetaDataKey>
+      <null/>
+    </entry>
+  </types>
+  <connectorName>DotNet__Resource_MuleSoftLabComponent</connectorName>
+</metadata__catalog__entry>
